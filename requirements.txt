@@ -1,0 +1,7 @@
+aiogram
+requests
+beautifulsoup4
+aiogram
+requests
+beautifulsoup4
+wappalyzer
